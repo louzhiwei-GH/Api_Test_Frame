@@ -1,0 +1,276 @@
+2025-08-25 13:57:24 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data0] 25
+2025-08-25 13:57:24 INFO 测试结果: passed 26
+2025-08-25 13:57:24 INFO 故障表示: None 27
+2025-08-25 13:57:24 INFO 异常: None 28
+2025-08-25 13:57:24 INFO 用例耗时: 0.44231959999888204 29
+2025-08-25 13:57:25 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data1] 25
+2025-08-25 13:57:25 INFO 测试结果: passed 26
+2025-08-25 13:57:25 INFO 故障表示: None 27
+2025-08-25 13:57:25 INFO 异常: None 28
+2025-08-25 13:57:25 INFO 用例耗时: 0.4666436999978032 29
+2025-08-25 13:57:25 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data2] 25
+2025-08-25 13:57:25 INFO 测试结果: passed 26
+2025-08-25 13:57:25 INFO 故障表示: None 27
+2025-08-25 13:57:25 INFO 异常: None 28
+2025-08-25 13:57:25 INFO 用例耗时: 0.4587826999995741 29
+2025-08-25 13:57:26 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data3] 25
+2025-08-25 13:57:26 INFO 测试结果: passed 26
+2025-08-25 13:57:26 INFO 故障表示: None 27
+2025-08-25 13:57:26 INFO 异常: None 28
+2025-08-25 13:57:26 INFO 用例耗时: 0.45373749999998836 29
+2025-08-25 13:57:26 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data4] 25
+2025-08-25 13:57:26 INFO 测试结果: passed 26
+2025-08-25 13:57:26 INFO 故障表示: None 27
+2025-08-25 13:57:26 INFO 异常: None 28
+2025-08-25 13:57:26 INFO 用例耗时: 0.5863957000001392 29
+2025-08-25 13:57:27 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data5] 25
+2025-08-25 13:57:27 INFO 测试结果: passed 26
+2025-08-25 13:57:27 INFO 故障表示: None 27
+2025-08-25 13:57:27 INFO 异常: None 28
+2025-08-25 13:57:27 INFO 用例耗时: 0.4709527999984857 29
+2025-08-25 13:57:27 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data6] 25
+2025-08-25 13:57:27 INFO 测试结果: passed 26
+2025-08-25 13:57:27 INFO 故障表示: None 27
+2025-08-25 13:57:27 INFO 异常: None 28
+2025-08-25 13:57:27 INFO 用例耗时: 0.46617849999893224 29
+2025-08-25 13:57:28 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data7] 25
+2025-08-25 13:57:28 INFO 测试结果: passed 26
+2025-08-25 13:57:28 INFO 故障表示: None 27
+2025-08-25 13:57:28 INFO 异常: None 28
+2025-08-25 13:57:28 INFO 用例耗时: 0.42471049999949173 29
+2025-08-25 13:57:28 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data8] 25
+2025-08-25 13:57:28 INFO 测试结果: passed 26
+2025-08-25 13:57:28 INFO 故障表示: None 27
+2025-08-25 13:57:28 INFO 异常: None 28
+2025-08-25 13:57:28 INFO 用例耗时: 0.4378495999990264 29
+2025-08-25 13:57:29 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data9] 25
+2025-08-25 13:57:29 INFO 测试结果: passed 26
+2025-08-25 13:57:29 INFO 故障表示: None 27
+2025-08-25 13:57:29 INFO 异常: None 28
+2025-08-25 13:57:29 INFO 用例耗时: 0.46428159999777563 29
+2025-08-25 13:57:29 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data10] 25
+2025-08-25 13:57:29 INFO 测试结果: passed 26
+2025-08-25 13:57:29 INFO 故障表示: None 27
+2025-08-25 13:57:29 INFO 异常: None 28
+2025-08-25 13:57:29 INFO 用例耗时: 0.4691175000007206 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data11] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.5013383999976213 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data12] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.030343700000230456 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data13] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.09348449999743025 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data14] 25
+2025-08-25 13:57:30 INFO 测试结果: failed 26
+2025-08-25 13:57:30 INFO 故障表示: self = <test_case.test_case_002.TestCase object at 0x000001A92A59BAD0>
+case_data = {'id': 17, 'url': 'http://novel.hctestedu.com', 'path': '/user/login', 'method': 'post', ...}
+
+    @pytest.mark.parametrize("case_data", CaseData)
+    def testcase(self, case_data: Dict[str, Any]):
+        self.__dynamic_title(case_data)
+        case_data = eval(Template(str(case_data)).render(self.all_dict))
+    
+        test_result = "Passed"  # 默认状态
+        error_msg = None
+    
+        try:
+    
+            # 1. 准备请求数据
+            dict_data = self.__prepare_request_data(case_data)
+            print(dict_data)
+            # 2. 发送请求
+            res = getattr(self.ak, case_data["method"])(**dict_data)
+            res_json = res.json()
+            print(res_json)
+    
+            # 3. 获取实际结果并断言
+            actual_result = self.ak.get_value(res_json, case_data["actualResult"])
+            print(f"actual_result: {actual_result}")
+>           assert actual_result == case_data["expectResult"], \
+                f"断言失败: 预期[{case_data['expectResult']}], 实际: [{actual_result}]"
+E               AssertionError: 断言失败: 预期[登录成功], 实际: [SUCCESS]
+E               assert 'SUCCESS' == '登录成功'
+E                 
+E                 - 登录成功
+E                 + SUCCESS
+
+test_case\test_case_002.py:141: AssertionError
+
+During handling of the above exception, another exception occurred:
+
+self = <test_case.test_case_002.TestCase object at 0x000001A92A59BAD0>
+case_data = {'id': 17, 'url': 'http://novel.hctestedu.com', 'path': '/user/login', 'method': 'post', ...}
+
+    @pytest.mark.parametrize("case_data", CaseData)
+    def testcase(self, case_data: Dict[str, Any]):
+        self.__dynamic_title(case_data)
+        case_data = eval(Template(str(case_data)).render(self.all_dict))
+    
+        test_result = "Passed"  # 默认状态
+        error_msg = None
+    
+        try:
+    
+            # 1. 准备请求数据
+            dict_data = self.__prepare_request_data(case_data)
+            print(dict_data)
+            # 2. 发送请求
+            res = getattr(self.ak, case_data["method"])(**dict_data)
+            res_json = res.json()
+            print(res_json)
+    
+            # 3. 获取实际结果并断言
+            actual_result = self.ak.get_value(res_json, case_data["actualResult"])
+            print(f"actual_result: {actual_result}")
+            assert actual_result == case_data["expectResult"], \
+                f"断言失败: 预期[{case_data['expectResult']}], 实际: [{actual_result}]"
+            self.__json_extraction(case_data, res_json)
+            self.__sql_assert(case_data)
+    
+            if case_data["responseExpect"]:
+                deepdiff_expect_data = self.__safe_json_parse(case_data.get("responseExpect"))
+                other = eval(case_data["responseExclude"])
+                print(f"得到的responseExclude: {other}")
+                jsonMaxDataRes = self.ak.data_deepdiff(deepdiff_expect_data, res_json, **other)
+                assert  jsonMaxDataRes, "大量数据响应断言失败，两者数据不一致"
+    
+        except AssertionError as ae:
+            # 断言失败的专属处理
+            test_result = "Failed"
+            error_msg = str(ae)
+>           pytest.fail(error_msg)  # 标记测试失败
+            ^^^^^^^^^^^^^^^^^^^^^^
+E           Failed: 断言失败: 预期[登录成功], 实际: [SUCCESS]
+E           assert 'SUCCESS' == '登录成功'
+E             
+E             - 登录成功
+E             + SUCCESS
+
+test_case\test_case_002.py:157: Failed 27
+2025-08-25 13:57:30 INFO 异常: <ExceptionInfo 断言失败: 预期[登录成功], 实际: [SUCCESS]
+assert 'SUCCESS' == '登录成功'
+  
+  - 登录成功
+  + SUCCESS tblen=25> 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.08727939999880618 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data15] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.08968989999993937 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data16] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.08641469999929541 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data17] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.08565950000047451 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data18] 25
+2025-08-25 13:57:30 INFO 测试结果: failed 26
+2025-08-25 13:57:30 INFO 故障表示: self = <test_case.test_case_002.TestCase object at 0x000001A92A7F9A90>
+case_data = {'id': 21, 'url': 'http://novel.hctestedu.com', 'path': '/author/addBook', 'method': 'post', ...}
+
+    @pytest.mark.parametrize("case_data", CaseData)
+    def testcase(self, case_data: Dict[str, Any]):
+        self.__dynamic_title(case_data)
+        case_data = eval(Template(str(case_data)).render(self.all_dict))
+    
+        test_result = "Passed"  # 默认状态
+        error_msg = None
+    
+        try:
+    
+            # 1. 准备请求数据
+            dict_data = self.__prepare_request_data(case_data)
+            print(dict_data)
+            # 2. 发送请求
+            res = getattr(self.ak, case_data["method"])(**dict_data)
+            res_json = res.json()
+            print(res_json)
+    
+            # 3. 获取实际结果并断言
+            actual_result = self.ak.get_value(res_json, case_data["actualResult"])
+            print(f"actual_result: {actual_result}")
+>           assert actual_result == case_data["expectResult"], \
+                f"断言失败: 预期[{case_data['expectResult']}], 实际: [{actual_result}]"
+E               AssertionError: 断言失败: 预期[SUCCESS], 实际: [已发布过同名小说！]
+E               assert '已发布过同名小说！' == 'SUCCESS'
+E                 
+E                 - SUCCESS
+E                 + 已发布过同名小说！
+
+test_case\test_case_002.py:141: AssertionError
+
+During handling of the above exception, another exception occurred:
+
+self = <test_case.test_case_002.TestCase object at 0x000001A92A7F9A90>
+case_data = {'id': 21, 'url': 'http://novel.hctestedu.com', 'path': '/author/addBook', 'method': 'post', ...}
+
+    @pytest.mark.parametrize("case_data", CaseData)
+    def testcase(self, case_data: Dict[str, Any]):
+        self.__dynamic_title(case_data)
+        case_data = eval(Template(str(case_data)).render(self.all_dict))
+    
+        test_result = "Passed"  # 默认状态
+        error_msg = None
+    
+        try:
+    
+            # 1. 准备请求数据
+            dict_data = self.__prepare_request_data(case_data)
+            print(dict_data)
+            # 2. 发送请求
+            res = getattr(self.ak, case_data["method"])(**dict_data)
+            res_json = res.json()
+            print(res_json)
+    
+            # 3. 获取实际结果并断言
+            actual_result = self.ak.get_value(res_json, case_data["actualResult"])
+            print(f"actual_result: {actual_result}")
+            assert actual_result == case_data["expectResult"], \
+                f"断言失败: 预期[{case_data['expectResult']}], 实际: [{actual_result}]"
+            self.__json_extraction(case_data, res_json)
+            self.__sql_assert(case_data)
+    
+            if case_data["responseExpect"]:
+                deepdiff_expect_data = self.__safe_json_parse(case_data.get("responseExpect"))
+                other = eval(case_data["responseExclude"])
+                print(f"得到的responseExclude: {other}")
+                jsonMaxDataRes = self.ak.data_deepdiff(deepdiff_expect_data, res_json, **other)
+                assert  jsonMaxDataRes, "大量数据响应断言失败，两者数据不一致"
+    
+        except AssertionError as ae:
+            # 断言失败的专属处理
+            test_result = "Failed"
+            error_msg = str(ae)
+>           pytest.fail(error_msg)  # 标记测试失败
+            ^^^^^^^^^^^^^^^^^^^^^^
+E           Failed: 断言失败: 预期[SUCCESS], 实际: [已发布过同名小说！]
+E           assert '已发布过同名小说！' == 'SUCCESS'
+E             
+E             - SUCCESS
+E             + 已发布过同名小说！
+
+test_case\test_case_002.py:157: Failed 27
+2025-08-25 13:57:30 INFO 异常: <ExceptionInfo 断言失败: 预期[SUCCESS], 实际: [已发布过同名小说！]
+assert '已发布过同名小说！' == 'SUCCESS'
+  
+  - SUCCESS
+  + 已发布过同名小说！ tblen=25> 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.08983240000088699 29
+2025-08-25 13:57:30 INFO 用例ID: test_case/test_case_002.py::TestCase::testcase[case_data19] 25
+2025-08-25 13:57:30 INFO 测试结果: passed 26
+2025-08-25 13:57:30 INFO 故障表示: None 27
+2025-08-25 13:57:30 INFO 异常: None 28
+2025-08-25 13:57:30 INFO 用例耗时: 0.09423419999802718 29

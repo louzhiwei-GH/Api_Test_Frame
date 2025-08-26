@@ -1,0 +1,4 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/cart/save', 'params': {'application': 'app', 'application_client_type': 'weixin', 'token': 'a51c30be7cbe55a727640bdc439ed175'}, 'headers': {'Content-Type': 'application/json'}, 'data': '{"goods_id": "2", "spec": [{"type": "\\u5957\\u9910", "value": "\\u5957\\u9910\\u4e8c"}, {"type": "\\u989c\\u8272", "value": "\\u94f6\\u8272"}, {"type": "\\u5bb9\\u91cf", "value": "64G"}], "stock": 2}'}
+{'msg': '加入成功', 'code': 0, 'data': 3}
+actual_result: 加入成功
+需要提取的数据为空

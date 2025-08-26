@@ -1,0 +1,2 @@
+2025-08-25 13:57:30 DEBUG Starting new HTTP connection (1): novel.hctestedu.com:80  241
+2025-08-25 13:57:30 DEBUG http://novel.hctestedu.com:80 "POST /author/addBook HTTP/1.1" 200 None  544

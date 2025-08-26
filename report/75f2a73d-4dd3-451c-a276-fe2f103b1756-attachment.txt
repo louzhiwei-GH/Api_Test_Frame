@@ -1,0 +1,4 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/cart/save', 'params': {'application': 'app', 'application_client_type': 'weixin', 'token': 'a51c30be7cbe55a727640bdc439ed175'}, 'headers': {'Content-Type': 'application/json'}, 'data': '{}'}
+{'msg': '商品id有误', 'code': -1, 'data': ''}
+actual_result: 商品id有误
+需要提取的数据为空

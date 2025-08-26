@@ -1,0 +1,4 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/user/login', 'params': {'application': 'app', 'application_client_type': 'weixin'}, 'headers': {'Content-Type': 'application/json'}, 'data': '{"accounts": "hami", "pwd": "123456111", "type": "username"}'}
+{'msg': '密码错误', 'code': -4, 'data': ''}
+actual_result: 密码错误
+需要提取的数据为空

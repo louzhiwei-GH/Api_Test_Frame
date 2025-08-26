@@ -1,0 +1,2 @@
+2025-08-25 13:57:28 DEBUG Starting new HTTP connection (1): shop-xo.hctestedu.com:80  241
+2025-08-25 13:57:28 DEBUG http://shop-xo.hctestedu.com:80 "POST /index.php?s=api/cart/save&application=app&application_client_type=weixin&token=a51c30be7cbe55a727640bdc439ed175 HTTP/1.1" 200 None  544

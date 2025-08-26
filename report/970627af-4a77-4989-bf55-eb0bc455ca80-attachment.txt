@@ -1,0 +1,4 @@
+{'url': 'http://novel.hctestedu.com/user/login', 'params': {}, 'headers': {}, 'data': {'username': '150962613423110', 'password': 'asd123...'}}
+{'code': '1004', 'msg': '手机号或密码错误！', 'data': None}
+actual_result: 手机号或密码错误！
+需要提取的数据为空

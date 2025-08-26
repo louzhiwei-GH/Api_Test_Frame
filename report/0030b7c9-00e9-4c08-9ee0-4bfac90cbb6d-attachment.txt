@@ -1,0 +1,4 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/user/login', 'params': {'application': 'app', 'application_client_type': 'weixin'}, 'headers': {'Content-Type': 'application/json'}, 'data': '{"accounts": "", "pwd": "123456", "type": "username"}'}
+{'msg': '登录账号不能为空', 'code': -1, 'data': ''}
+actual_result: 登录账号不能为空
+需要提取的数据为空

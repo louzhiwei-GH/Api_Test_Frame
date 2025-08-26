@@ -1,0 +1,4 @@
+{'url': 'http://127.0.0.1:8080/login_safe', 'params': {}, 'headers': {}, 'data': {'username': 'XbXHJrNLwoTVcyfqM9eTgQ==', 'password': 'mdSm0RmB+xAKrTah3DG31A=='}}
+{'token': 'b9285ffc-cb81-4a0b-a241-861697a9ac9b'}
+actual_result: None
+需要提取的数据为空

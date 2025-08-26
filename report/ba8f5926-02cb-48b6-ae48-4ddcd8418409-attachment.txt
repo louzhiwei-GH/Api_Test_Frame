@@ -1,0 +1,4 @@
+{'url': 'http://novel.hctestedu.com/author/addBook', 'params': {}, 'headers': {}, 'data': {'workDirection': '0', 'catId': '1', 'catName': '432432432432', 'bookDesc': '测试数据423432432', 'picUrl': '/images/default.gif', 'bookName': '35435435'}}
+{'code': '1001', 'msg': '未登录或登陆失效！', 'data': None}
+actual_result: 未登录或登陆失效！
+需要提取的数据为空

@@ -1,0 +1,4 @@
+{'url': 'http://novel.hctestedu.com/user/login', 'params': {}, 'headers': {}, 'data': {'username': '15096261110', 'password': 'asd123...'}}
+{'code': '200', 'msg': 'SUCCESS', 'data': {'token': 'eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NTY3MDYyNTAsInN1YiI6IntcImlkXCI6MTYyODc0MDY3ODY3MDE5NjczNixcInVzZXJuYW1lXCI6XCIxNTA5NjI2MTExMFwiLFwibmlja05hbWVcIjpcIlMxNTA5NjI2MTExMFwifSIsImNyZWF0ZWQiOjE3NTYxMDE0NTAyOTN9.4K6MkkMRaWzFX3c1vqOjHltBsPhsWwHxTSYM76cIcV_93RA-Zks5xSL4lmfPn_EwxnH_A05wHLmHjjbDuksdsQ'}}
+actual_result: SUCCESS
+提取出来的数据： {'VAR_TOKEN': 'a51c30be7cbe55a727640bdc439ed175', 'MSG': '登录成功', 'VAR_CARTID': '3125', 'VAR_GOODSID': '2', 'DSW_TOKEN': 'eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NTY3MDYyNTAsInN1YiI6IntcImlkXCI6MTYyODc0MDY3ODY3MDE5NjczNixcInVzZXJuYW1lXCI6XCIxNTA5NjI2MTExMFwiLFwibmlja05hbWVcIjpcIlMxNTA5NjI2MTExMFwifSIsImNyZWF0ZWQiOjE3NTYxMDE0NTAyOTN9.4K6MkkMRaWzFX3c1vqOjHltBsPhsWwHxTSYM76cIcV_93RA-Zks5xSL4lmfPn_EwxnH_A05wHLmHjjbDuksdsQ'}

@@ -1,0 +1,4 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/user/reg', 'params': {'application': 'app', 'application_client_type': 'weixin'}, 'headers': {}, 'data': {'accounts': 'hami', 'pwd': '', 'type': 'username'}}
+{'msg': '密码不能为空', 'code': -1, 'data': ''}
+actual_result: 密码不能为空
+需要提取的数据为空

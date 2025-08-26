@@ -1,0 +1,5 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/buy/add', 'params': {'application': 'app', 'application_client_type': 'weixin', 'token': 'a51c30be7cbe55a727640bdc439ed175'}, 'headers': {'Content-Type': 'application/json'}, 'data': '{"buy_type": "cart", "address_id": 1129, "ids": 3125, "payment_id": "3", "user_note": "\\u901a\\u8fc7\\u8d2d\\u7269\\u8f66\\u8fdb\\u884c\\u4e0b\\u5355"}'}
+{'msg': '提交成功', 'code': 0, 'data': {'order_status': 1, 'order_ids': ['2676'], 'jump_url': 'http://shop-xo.hctestedu.com/index.php?s=/index/order/pay/ids/2676.html'}}
+actual_result: 提交成功
+需要提取的数据为空
+得到的responseExclude: {'exclude_paths': {'data'}, 'ignore_string_case': True}

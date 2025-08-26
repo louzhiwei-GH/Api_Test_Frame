@@ -1,0 +1,5 @@
+{'url': 'http://shop-xo.hctestedu.com/index.php?s=api/user/login', 'params': {'application': 'app', 'application_client_type': 'weixin'}, 'headers': {'Content-Type': 'application/json'}, 'data': '{"accounts": "hami", "pwd": "123456", "type": "username"}'}
+{'msg': '登录成功', 'code': 0, 'data': {'id': '9', 'username': 'hami', 'nickname': '哈米老师', 'mobile': '', 'email': '', 'avatar': 'http://shop-xo.hctestedu.com/static/index/default/images/default-user-avatar.jpg', 'alipay_openid': '', 'weixin_openid': '', 'weixin_unionid': '', 'weixin_web_openid': '', 'baidu_openid': '', 'toutiao_openid': '', 'qq_openid': '', 'qq_unionid': '', 'integral': '0', 'locking_integral': '0', 'referrer': '0', 'add_time': '1750927428', 'add_time_text': '2025-06-26 16:43:48', 'mobile_security': '', 'email_security': '', 'user_name_view': 'hami', 'is_mandatory_bind_mobile': 0, 'token': 'a51c30be7cbe55a727640bdc439ed175'}}
+actual_result: 登录成功
+提取出来的数据： {'VAR_TOKEN': 'a51c30be7cbe55a727640bdc439ed175', 'MSG': '登录成功'}
+数据库预期值为: {'name': 'hami', 'id': 9}, 数据库实际提取值为: {'name': 'hami', 'id': 9}
